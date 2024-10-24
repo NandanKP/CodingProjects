@@ -1,3 +1,5 @@
+SNOW SALAH VERIFICATION - A DATA ANALYTICS PROJECT IMPLEMENTING STATISTICAL METHODS
+
 There is a phenomenon in football that occurs around every December-January - the winter period. 
 The Liverpool and Egypt winger known as Mohamed Salah switches gears. The astonishing performances he puts in this particular period has led to the the moniker Snow Salah - a play on Mo Salah.
 In this project I use data from the 2021-22 season to verify the truth behind this phenomenon. Further seasons will be added later.
